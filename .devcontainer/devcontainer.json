@@ -1,4 +1,4 @@
-{
+{"ghcr.io/itsmechlark/features/1password:1": {}
   "name": "E621ng project development",
   "dockerComposeFile": ["../docker-compose.yml", "docker-compose.extend.yml"],
   "service": "dev-container",
